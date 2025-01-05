@@ -1,0 +1,30 @@
+{
+  "name": "phototheque",
+  "version": "1.0.0",
+  "description": "gestion d'un albums photo en ligne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaaine/phototeque.git"
+  },
+  "author": "Aziz Zaaine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaaine/phototeque/issues"
+  },
+  "homepage": "https://github.com/zaaine/phototeque#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.9.3",
+    "nodemon": "^3.1.9",
+    "rimraf": "^5.0.10"
+  }
+}
