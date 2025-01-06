@@ -31,6 +31,7 @@ app.use(flash());
 
 app.get("/", (req, res) => {
   res.redirect("/albums");
+  res.render("index", { imagePath: "/assets/Photothèque.jpeg" });
 });
 
 app.use("/", albumRoutes);
