@@ -71,13 +71,13 @@ Informations pour les développeurs souhaitant contribuer au projet.
 
 ## Contribution
 
-Comment les autres peuvent contribuer au projet (par exemple, en signalant des bugs, en proposant des améliorations, en soumettant des Pull Requests).
+Contribuer au projet en signalant des bugs, en proposant des améliorations, en soumettant des Pull Requests.
 
 ## Licence
 
 MIT License
 
-Copyright (c) [Année] [Votre Nom]
+Copyright (c) [2025] [ZAAINE AZIZ]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -99,5 +99,5 @@ THE SOFTWARE.
 
 ## Auteurs
 
-*   [zaaine aziz](votre-lien-github)
+*   [zaaine aziz]
 *   ![Photothèque](https://github.com/user-attachments/assets/bbc5a341-5b0c-4e3b-b7dc-4c7d4c3fa5ca)
