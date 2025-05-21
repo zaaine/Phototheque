@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "682d8be9247acfb339b86b5e"
+  },
+  "title": "Portugal",
+  "images": [
+    "20210828_120417.jpg",
+    "20210825_200348.jpg",
+    "20210830_113548.jpg",
+    "thumb_IMG_5009_1024.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-05-21T08:16:41.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T08:26:25.747Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "682d8cad247acfb339b86b72"
+  },
+  "title": "France",
+  "images": [],
+  "createdAt": {
+    "$date": "2025-05-21T08:19:57.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T08:19:57.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682d8d82247acfb339b86b82"
+  },
+  "title": "Malaisie",
+  "images": [
+    "thumb_IMG_5001_1024.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-05-21T08:23:30.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T08:26:39.938Z"
+  },
+  "__v": 3
+}]
